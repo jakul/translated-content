@@ -24,7 +24,7 @@ Hay similitudes entre el status {{HTTPStatus("401")}} y el **`error 403`**, la d
 
 ## Ejemplo de respuesta
 
-```
+```http
 HTTP/1.1 403 Forbidden
 Date: Wed, 21 Oct 2015 07:28:00 GMT
 ```
