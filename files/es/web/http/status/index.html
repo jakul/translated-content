@@ -38,10 +38,10 @@ translation_of: Web/HTTP/Status
 <h2 id="Respuestas_satisfactorias">Respuestas satisfactorias</h2>
 
 <ul>
- <li><code><span class="hidden"> </span><span class="hidden"> </span><span class="hidden"> </span><span class="hidden"> </span>GET</code>: El recurso se ha obtenido y se transmite en el cuerpo del mensaje.</li>
+ <li><code>GET</code>: El recurso se ha obtenido y se transmite en el cuerpo del mensaje.</li>
  <li><code>HEAD</code>: Los encabezados de entidad están en el cuerpo del mensaje.</li>
  <li><code>PUT</code> o <code>POST</code>: El recurso que describe el resultado de la acción se transmite en el cuerpo del mensaje.</li>
- <li><code>TRACE</code>: El cuerpo del mensaje contiene el mensaje de solicitud recibido por el servidor.<span class="hidden"> </span><span class="hidden"> </span><span class="hidden"> </span><span class="hidden"> </span></li>
+ <li><code>TRACE</code>: El cuerpo del mensaje contiene el mensaje de solicitud recibido por el servidor.</li>
 </ul>
 
 <dl>
@@ -76,7 +76,6 @@ translation_of: Web/HTTP/Status
  <dd>Este código de respuesta significa que la URI  del recurso solicitado ha sido cambiado. Probablemente una nueva URI sea devuelta en la respuesta.</dd>
  <dt>{{HTTPStatus(302, "302 Found")}}</dt>
  <dd>Este código de respuesta significa que el recurso de la URI solicitada ha sido cambiado temporalmente. Nuevos cambios en la URI serán agregados en el futuro. Por lo tanto, la misma URI debe ser usada por el cliente en futuras solicitudes.</dd>
- <dd></dd>
  <dt>{{HTTPStatus(303, "303 See Other")}}</dt>
  <dd>El servidor envía esta respuesta para dirigir al cliente a un nuevo recurso solicitado a otra dirección usando una petición GET.</dd>
  <dt>{{HTTPStatus(304, "304 Not Modified")}}</dt>

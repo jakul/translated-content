@@ -39,7 +39,7 @@ translation_of: Web/API/Navigator/registerProtocolHandler/Web-based_protocol_han
 
 <p><img alt="" src="https://mdn.mozillademos.org/files/9683/protocolregister.png" style="display: block; height: 401px; margin: 0px auto; width: 700px;"></p>
 
-<div class="note"><strong>Nota:</strong> La plantila de la URL proporcionada al registrar <strong>debe</strong> ser del mismo dominio que el de la página que intenta realizar el registro o el registro fallará. Por ejemplo, <code class="plain">http://example.com/homepage.html</code> puede registrar un controlador de protocolo para <code class="plain">http://example.com/handle_mailto/%s</code>, pero no para <code class="plain">http://example.<em><strong>org</strong></em>/handle_mailto/%s</code>.</div>
+<div class="note"><strong>Nota:</strong> La plantila de la URL proporcionada al registrar <strong>debe</strong> ser del mismo dominio que el de la página que intenta realizar el registro o el registro fallará. Por ejemplo, <code>http://example.com/homepage.html</code> puede registrar un controlador de protocolo para <code>http://example.com/handle_mailto/%s</code>, pero no para <code>http://example.<em><strong>org</strong></em>/handle_mailto/%s</code>.</div>
 
 <p>Al registrar el mismo controlador de protocolo más de una vez aparecerá una notifiación diferente, indicando que el controlador del protocolo ya ha está registrado. Por lo tanto, es una buena idea cuidar el registro del controlador de protocolo con una verificación para saber si ya está registrado, como con el siguiente ejemplo.</p>
 
