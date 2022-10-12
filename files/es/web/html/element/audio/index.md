@@ -68,7 +68,7 @@ Reproduce el fichero de audio adjunto a este artículo.
 
 - [HTMLAudioElement](/en/DOM/HTMLAudioElement)
 
-## Consulta también
+## Véase también
 
 - [**Formatos multimedia admitidos por los elementos de audio y video**](/es/Formatos_multimedia_admitidos_por_los_elementos_de_video_y_audio)
 - [Manipulating audio using the enhanced audio API](/en/Manipulating_audio_using_the_enhanced_audio_API)

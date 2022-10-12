@@ -73,7 +73,7 @@ Si no se incluye explícitamente, `step` tiene como valor predeterminado 1 para 
 
 Proporciona instrucciones para ayudar a los usuarios a comprender cómo completar el formulario y utilizar controles de formulario individuales. Indica cualquier entrada requerida y opcional, formatos de datos y otra información relevante. Cuando utilices el atributo {{HTMLAttrxRef("min", "input")}}, asegúrate de que el usuario comprenda este requisito mínimo. Posiblemente sea suficiente proporcionar instrucciones dentro de un {{HTMLElement('label')}}. Si proporcionas instrucciones fuera de las etiquetas, lo cual permite un posicionamiento y un diseño más flexibles, considera usar [aria-labelledby](/es/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute) o [aria-describedby](/es/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-descriptionsby_attribute).
 
-## Ve también
+## Véase también
 
 - [step](/es/docs/Web/HTML/Attributes/step)
 - [max](/es/docs/Web/HTML/Attributes/max)

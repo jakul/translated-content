@@ -22,6 +22,6 @@ El [atributo global](/es/docs/Web/HTML/Atributos_Globales) **style** contiene de
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales.](/es/docs/Web/HTML/Atributos_Globales)

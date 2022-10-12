@@ -27,7 +27,7 @@ Este es un atributo enumerado y no uno _booleano ._ Esto significa que el uso ex
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales)
 - {{domxref("HTMLElement.contentEditable")}} and {{domxref("HTMLElement.isContentEditable")}}

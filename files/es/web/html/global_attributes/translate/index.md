@@ -24,7 +24,7 @@ El [atributo global](/es/docs/Web/HTML/Atributos_Globales) **translate** es un a
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales)
 - La propiedad {{domxref("HTMLElement.translate")}} que refleja a este atributo

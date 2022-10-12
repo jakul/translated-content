@@ -48,7 +48,7 @@ El siguiente ejemplo muestra nombres de productos pero también asocia a cada un
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - The HTML {{HTMLElement("time")}} element.
 

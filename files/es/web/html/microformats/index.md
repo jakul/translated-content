@@ -20,7 +20,7 @@ Los microformatos son soportados por la mayoría de motores de búsqueda.
 
 They all aim at adding semantics to web documents.
 
-## See also
+## Véase también
 
 - {{Interwiki("wikipedia", "Microformat")}} on Wikipedia
 - [Microformats official website](http://www.microformats.org)

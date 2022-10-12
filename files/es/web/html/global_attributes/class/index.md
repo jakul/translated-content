@@ -21,6 +21,6 @@ Aunque la especificación no define los requerimientos para el nombre de las cla
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales)

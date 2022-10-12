@@ -56,7 +56,7 @@ USA
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Elemento {{HTMLElement("address")}}
 - Elemento {{HTMLElement("p")}}

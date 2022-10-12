@@ -39,7 +39,7 @@ Este elemento no tiene otros atributos adicionales a los [atributos globales](/e
 
 Este elemento implementa la interfaz [`HTMLElement`](/en/DOM/element).
 
-### Vea también
+### Véase también
 
 <div class="editIcon" style="display: inline; margin-left: 4px; font-size: inherit; font-weight: normal; position: relative;"><a href="/es/HTML/Elemento/footer#" style="color: rgb(51, 102, 153); text-decoration: none;" title="Editar sección"><span class="icon" style="height: 16px;"><img alt="Editar sección" class="sectionedit" src="/skins/common/icons/icon-trans.gif"></span></a></div>
 

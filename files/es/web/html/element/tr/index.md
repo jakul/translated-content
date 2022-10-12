@@ -80,7 +80,7 @@ Ver {{HTMLElement("table")}} para ejemplos de `<tr>`.
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Otros elementos relacionados con tablas HTML: {{HTMLElement("caption")}}, {{HTMLElement("col")}}, {{HTMLElement("colgroup")}}, {{HTMLElement("table")}}, {{HTMLElement("tbody")}}, {{HTMLElement("td")}}, {{HTMLElement("tfoot")}}, {{HTMLElement("th")}}, {{HTMLElement("thead")}};
 - Las propiedades CSS y pseudo-clases que pueden ser especialmente útiles para el estilo del elemento \<tr>:

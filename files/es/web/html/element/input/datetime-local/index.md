@@ -58,6 +58,6 @@ El siguiente elemento tiene los siguientes[ atributos globales](/es/docs/Web/HTM
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - El elemento {{HTMLElement("input")}}

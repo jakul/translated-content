@@ -108,7 +108,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
 
 {{Compat}}
 
-## Ve también
+## Véase también
 
 - El elemento {{HTMLElement("blockquote")}} para citas de bloque independiente.
 - El elemento {{HTMLElement("cite")}} para citas de fuentes.

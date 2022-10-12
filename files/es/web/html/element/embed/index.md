@@ -38,7 +38,7 @@ Este elemento admite los siguientes atributos además de los [atributos globales
 
 - [HTMLEmbedElement](/en/DOM/HTMLEmbedElement)
 
-## Consulta también
+## Véase también
 
 Otros elementos que se utilizan para incrustar el contenido de varios tipos incluyen {{ HTMLElement("audio") }}, {{ HTMLElement("canvas") }}, {{ HTMLElement("iframe") }}, {{ HTMLElement("img") }}, {{ HTMLElement("math") }}, {{ HTMLElement("object") }}, {{ HTMLElement("svg") }} y {{ HTMLElement("video") }}.
 

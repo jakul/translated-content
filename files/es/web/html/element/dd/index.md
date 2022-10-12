@@ -97,7 +97,7 @@ Para un ejemplo, ver [ejemplos \<dl>](/es/docs/Web/HTML/Elemento/dl#Examples).
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - {{HTMLELement("dl")}}
 - {{HTMLElement("dt")}}

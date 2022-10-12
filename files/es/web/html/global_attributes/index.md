@@ -111,6 +111,6 @@ Además de los atributos globales HTML básicos, también existen los siguientes
 
 {{Compat}}
 
-## Ve también
+## Véase también
 
 - Las interfaces {{DOMxRef("Element")}} y {{DOMxRef("GlobalEventHandlers")}} que permiten consultar la mayoría de los atributos globales.

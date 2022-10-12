@@ -1149,6 +1149,6 @@ Los atributos IDL no son siempre strings; por ejemplo, `input.maxlength` es un n
 
 Los atributos IDL pueden [reflejar otros tipos](http://www.whatwg.org/specs/web-apps/current-work/multipage/urls.html#reflecting-content-attributes-in-idl-attributes) como un long sin asignacion, URL's, booleanos, etc. Desafortunadamente no hay reglas claras y el comportamiento que los atributos IDL en conjunto con sus respectivos atributos de contenido depende del mismo atributo. La mayoria del tiempo, siguen [las reglas de diseño en la especificacion](http://www.whatwg.org/specs/web-apps/current-work/multipage/urls.html#reflecting-content-attributes-in-idl-attributes), pero algunas veces no lo hacen. Las especificaciones HTML tratan de ser lo mas amigables para el dasarrollador como es posible, pero por varias razones (mayormente historicas), algunos aributos se comportan de forma extraña (`select.size`, por ejemplo) y debes leer las especificaciones para comprender como éste se comporta exactamente.
 
-## Ver Tambien
+## Véase también
 
 - [Elementos](/es/docs/Web/HTML/Elemento)

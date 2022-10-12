@@ -52,7 +52,7 @@ En Windows, el resultante sería este:
 
 {{Compat}}
 
-## Mira también
+## Véase también
 
 - {{htmlelement("meter")}}
 - {{ cssxref(":indeterminate") }}

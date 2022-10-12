@@ -81,6 +81,6 @@ Notar que Firefox puede personalizar la tecla de modificación requerida por las
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales)

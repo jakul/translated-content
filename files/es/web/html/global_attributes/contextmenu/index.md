@@ -67,6 +67,6 @@ resulta en :
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales)

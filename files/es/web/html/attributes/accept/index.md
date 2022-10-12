@@ -147,7 +147,7 @@ div {
 
 {{Compat}}
 
-## Ve también
+## Véase también
 
 - [Uso de archivos de aplicaciones web](/es/docs/Using_files_from_web_applications)
 - [API de File](/es/docs/Web/API/File)

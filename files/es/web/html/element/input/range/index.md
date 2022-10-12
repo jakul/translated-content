@@ -314,7 +314,7 @@ Además de los ejemplos anteriores, encontrarás más ejemplos en los siguientes
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [HTML Forms](/es/docs/Learn/HTML/Forms)
 - {{HTMLElement("input")}} and the {{domxref("HTMLInputElement")}} interface it's based upon

@@ -32,7 +32,7 @@ El [atributo global](/es/docs/Web/HTML/Atributos_Globales) dir es un atributo en
 
 {{Compat}}
 
-## See also
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Global_attributes)
 - {{domxref("HTMLElement.dir")}} que refleja este atributo .

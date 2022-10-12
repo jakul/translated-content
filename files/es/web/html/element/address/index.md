@@ -58,7 +58,7 @@ Aunque el elemento de dirección representa el texto con el mismo estilo predete
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Otras elementos de sección relacionados: {{HTMLElement("body")}}, {{HTMLElement("nav")}}, {{HTMLElement("article")}}, {{HTMLElement("aside")}}, {{HTMLElement("h1")}}, {{HTMLElement("h2")}}, {{HTMLElement("h3")}}, {{HTMLElement("h4")}}, {{HTMLElement("h5")}}, {{HTMLElement("h6")}}, {{HTMLElement("hgroup")}}, {{HTMLElement("footer")}}, {{HTMLElement("section")}}, {{HTMLElement("header")}};
 - [Secciones y línea generales de un documento HTML5](/es/docs/Sections_and_Outlines_of_an_HTML5_document).

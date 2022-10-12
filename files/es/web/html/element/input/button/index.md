@@ -128,7 +128,7 @@ Se crea un nuevo input tipo botón con el valor 'Click me'.
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - El elemento genérico {{HTMLElement("input")}} y la interface usada para manipularlo, {{domxref("HTMLInputElement")}}
 - El reemplazo en HTML5 para **\<input type="button">**, el elemento **[\<button>](/es/docs/Web/HTML/Element/button)**.

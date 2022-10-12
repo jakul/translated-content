@@ -244,7 +244,7 @@ Los siguientes son un ejemplo renderizado resultado del codigo del anterior ejem
 
 {{Compat}}
 
-## Ver tambien
+## Véase también
 
 - [Otros atributos globales diferentes](/es/docs/Web/HTML/Global_attributes)
 - Otro, microdata relativo, atributos globales:

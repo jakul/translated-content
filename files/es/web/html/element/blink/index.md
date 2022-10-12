@@ -38,7 +38,7 @@ Este elemento no es soportado y por lo tanto implementa la interface {domxref("H
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [Historia de la creación del elemento](http://www.montulli.org/theoriginofthe%3Cblink%3Etag) \<blink>
 - {{cssxref("text-decoration")}}, donde un valor de parpadeo existe , aunque los exploradores no son obligados a hacer parpadear el texto efectivamente.

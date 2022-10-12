@@ -58,7 +58,7 @@ Algunos lectores de pantalla reconocen la etiqueta `main` y proveen un atajo par
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Basic structural elements: {{HTMLElement("html")}}, {{HTMLElement("head")}}, {{HTMLElement("body")}}
 - Section-related elements: {{HTMLElement("article")}}, {{HTMLElement("aside")}}, {{HTMLElement("footer")}}, {{HTMLElement("header")}}, or {{HTMLElement("nav")}}

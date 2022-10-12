@@ -106,7 +106,7 @@ table td {
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Web components: {{HTMLElement("slot")}} (e históríco: {{HTMLElement("shadow")}})
 - [Usando templates y slots](/es/docs/Web/Web_Components/Using_templates_and_slots)

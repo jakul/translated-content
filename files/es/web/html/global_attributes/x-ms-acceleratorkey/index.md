@@ -24,6 +24,6 @@ Tipo: **String**
 
 Nombre de la tecla de aceleración, por ejemplo: `Ctrl+B or Ctrl+S`.
 
-## Ver también
+## Véase también
 
 - [Microsoft API extensions](/es/docs/Web/API/Microsoft_API_extensions)

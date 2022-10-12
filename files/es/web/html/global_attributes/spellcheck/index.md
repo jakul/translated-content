@@ -195,6 +195,6 @@ El valor por default de este atributo es dependiente del explorador y del elemen
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [Atributos globales](/es/docs/Web/HTML/Atributos_Globales)

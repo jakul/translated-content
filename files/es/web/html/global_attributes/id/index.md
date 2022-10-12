@@ -26,7 +26,7 @@ El valor de este atributo no debe contener espacios en blanco. Los navegadores t
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Todos los [atributos globales](/es/docs/Web/HTML/Global_attributes).
 - {{domxref("Element.id")}} que se asemeja a este atributo.

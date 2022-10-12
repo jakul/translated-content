@@ -62,7 +62,7 @@ if ( img.complete || img.complete === undefined ) {
 }
 ```
 
-## También puede ver
+## Véase también
 
 - [Using Cross-domain images in WebGL and Chrome 13](http://blog.chromium.org/2011/07/using-cross-domain-images-in-webgl-and.html)
 - [HTML Specification - the `crossorigin` attribute](http://whatwg.org/html#attr-img-crossorigin)

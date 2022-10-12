@@ -153,7 +153,7 @@ Por favor, ver la página {{HTMLElement("table")}} para ejemplos de `<td>`.
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Otros Elementos HTML relacionados con tablas: {{HTMLElement("caption")}}, {{HTMLElement("col")}}, {{HTMLElement("colgroup")}}, {{HTMLElement("table")}}, {{HTMLElement("tbody")}}, {{HTMLElement("tfoot")}}, {{HTMLElement("th")}}, {{HTMLElement("thead")}}, {{HTMLElement("tr")}}.
 

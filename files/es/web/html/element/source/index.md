@@ -116,7 +116,7 @@ Para obtener más ejemplos, consulte [Uso de audio y video en Firefox](/es/docs/
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - Elemento {{HTMLElement("picture")}}
 - Elemento {{HTMLElement("audio")}}

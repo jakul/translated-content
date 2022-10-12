@@ -129,6 +129,6 @@ El valor de fecha y hora (el valor legible por el equipo) es el valor del atribu
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - El elemento {{HTMLElement("data")}}, permite señalizar otro tipo de valores.

@@ -45,6 +45,6 @@ Los siguientes elementos son "en línea":
 - [a](/es/docs/Web/HTML/Elemento/a), [bdo](/es/docs/Web/HTML/Elemento/bdo), [br](/es/docs/Web/HTML/Elemento/br), [img](/es/docs/Web/HTML/Elemento/Img), [map](/es/docs/Web/HTML/Elemento/map), [object](/es/docs/Web/HTML/Elemento/object), [q](/es/docs/Web/HTML/Elemento/q), [script](/es/docs/Web/HTML/Elemento/Script), [span](/es/docs/Web/HTML/Elemento/span), [sub](/es/docs/Web/HTML/Elemento/sub), [sup](/es/docs/Web/HTML/Elemento/sup)
 - [button](/es/docs/Web/HTML/Elemento/button), [input](/es/docs/Web/HTML/Elemento/Input), [label](/es/docs/Web/HTML/Elemento/label), [select](/es/docs/Web/HTML/Elemento/select), [textarea](/es/docs/Web/HTML/Elemento/textarea)
 
-### Ver también
+## Véase también
 
 - [Elementos en bloque](/es/docs/Web/HTML/Block-level_elements)

@@ -218,7 +218,7 @@ Para cambiar la indentación de un término, usa la propiedad {{cssxref("margin"
 
 {{Compat}}
 
-## See also
+## Véase también
 
 - {{HTMLElement("dt")}} element
 - {{HTMLElement("dd")}} element

@@ -98,7 +98,7 @@ Este elemento no tiene otros atributos mas que los [atributos globales](/es/docs
 Incluya este polyfill para proporcionar soporte para navegadores antiguos y actualmente incompatibles:
 [datalist-polyfill](https://github.com/mfranzke/datalist-polyfill)
 
-## Ver también
+## Véase también
 
 - El elemento {{HTMLElement("input")}}, y más especificamente este atributo {{htmlattrxref("list", "input")}};
 - El elemento {{HTMLElement("option")}}.

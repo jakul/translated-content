@@ -149,7 +149,7 @@ Este elemento incluye los [global attributes](/es/docs/Web/HTML/Global_attribute
 
 {{Compat}}
 
-## See also
+## Véase también
 
 - {{HTMLElement("applet")}} {{Obsolete_Inline}}
 - {{HTMLElement("embed")}}

@@ -187,7 +187,7 @@ Proporciona instrucciones para ayudar a los usuarios a comprender cómo completa
 
 Configurar [size](/es/docs/Web/HTML/Attributes/size)`="1"` en una selección múltiple puedes hacer que aparezca como una única selección en algunos navegadores, pero luego no se expande en el enfoque, lo que perjudica la usabilidad. No hagas eso. Si cambias la apariencia de un `select`, e incluso si no lo haces, asegúrate de informar al usuario que se puede seleccionar más de una opción mediante otro método.
 
-## Ve también
+## Véase también
 
 - {{HTMLElement('input')}}
 - {{htmlelement('select')}}

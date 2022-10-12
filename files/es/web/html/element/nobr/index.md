@@ -22,7 +22,7 @@ El elemento HTML `<nobr>` previene que una línea de texto se divida en una nuev
 <span style="white-space: nowrap">Línea larga sin saltos</span>
 ```
 
-## Vea también
+## Véase también
 
 - {{Cssxref("white-space")}}
 - {{Cssxref("overflow")}}

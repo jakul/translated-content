@@ -99,7 +99,7 @@ Si muestras esto en un explorador web , debe de verse como lo siguiente .
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [Web Components](/es/docs/Web/Web_Components)
 - {{HTMLElement("shadow")}}, {{HTMLElement("template")}}, {{HTMLElement("element")}}

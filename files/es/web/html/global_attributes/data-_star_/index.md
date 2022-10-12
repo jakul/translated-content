@@ -24,7 +24,7 @@ Notar que la propiedad {{domxref("HTMLElement.dataset")}} es un {{domxref("Strin
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales) .
 - La propiedad {{domxref("HTMLElement.dataset")}} que permite el acceso y modifica estos valores .

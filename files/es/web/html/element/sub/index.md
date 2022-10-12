@@ -45,7 +45,7 @@ Este elemento sólo incluye los [atributos globales](/es/docs/HTML/Global_attrib
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - El elemento HTML [\<sup>](/es/docs/Web/HTML/Elemento/sup) produce superíndice. Tenga en cuenta que no puedes usar \<sup> y \<sub> ambos al mismo tiempo y necesita usar [MathML](/es/docs/MathML) para producir un superíndice y un subíndice al lado del símbolo químico de un elemento, que representa su número atómico y su número nuclear.
 

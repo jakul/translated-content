@@ -48,7 +48,7 @@ El propósito de este elemento es puramente para la conveniencia del autor y por
 - Opera, Firefox, y algunos otros añaden un subrayado de puntos al contenido del elemento.
 - Algunos navegadores no sólo añaden un subrayado de puntos, sino que también lo ponen en minúsculas; para evitar este estilo, añadir algo como {{cssxref('font-variant')}}`: none` en CSS se hace cargo de este caso.
 
-## Ver también
+## Véase también
 
 - [Utilizando el elemento \<abbr>](/en-US/Learn/HTML/Howto/Mark_abbreviations_and_make_them_understandable)
 - Otros elementos de nivel semántico de texto: {{HTMLElement("a")}}, {{HTMLElement("em")}}, {{HTMLElement("strong")}}, {{HTMLElement("small")}}, {{HTMLElement("cite")}}, {{HTMLElement("q")}}, {{HTMLElement("dfn")}}, {{HTMLElement("time")}}, {{HTMLElement("code")}}, {{HTMLElement("var")}}, {{HTMLElement("samp")}}, {{HTMLElement("kbd")}}, {{HTMLElement("sub")}}, {{HTMLElement("sup")}}, {{HTMLElement("b")}}, {{HTMLElement("i")}}, {{HTMLElement("mark")}}, {{HTMLElement("ruby")}}, {{HTMLElement("rp")}}, {{HTMLElement("rt")}}, {{HTMLElement("bdo")}}, {{HTMLElement("span")}}, {{HTMLElement("br")}}, {{HTMLElement("wbr")}}.

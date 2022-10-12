@@ -37,7 +37,7 @@ define un título de dos líneas .
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales) .
 - {{domxref("HTMLElement.title")}} que refleja a este atributo .

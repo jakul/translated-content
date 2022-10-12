@@ -47,7 +47,7 @@ input:invalid:focus {
 
 {{Compat}}
 
-## Ve también
+## Véase también
 
 - [maxlength](/es/docs/Web/HTML/Attributes/maxlength)
 - [size](/es/docs/Web/HTML/Attributes/size)

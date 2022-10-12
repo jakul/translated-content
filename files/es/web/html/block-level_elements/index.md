@@ -114,6 +114,6 @@ La siguiente es una lista completa de todos los elementos en bloque de HTML (aun
 - {{ HTMLElement("video") }} {{ HTMLVersionInline(5) }}
   - : Reproductor de vídeo.
 
-### Ver también
+## Véase también
 
 - [Elementos en línea](/es/docs/Web/HTML/Elementos_en_línea)

@@ -128,7 +128,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [Formularios HTML](/es/docs/Web/Guide/HTML/Forms).
 - El evento {{event("close")}}

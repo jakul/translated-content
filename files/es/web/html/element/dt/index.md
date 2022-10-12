@@ -96,6 +96,6 @@ Para ver un ejemplo, vea el [proveído por el elemento `<dl>`](/es/docs/Web/HTML
 
 {{Compat}}
 
-## Vea también
+## Véase también
 
 - {{HTMLElement("dd")}}, {{HTMLElement("dl")}}

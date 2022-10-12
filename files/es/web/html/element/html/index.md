@@ -59,7 +59,7 @@ El DOCTYPE usado en el siguiente ejemplo indica que es un documento HTML5.
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - MathML top-level element: {{MathMLElement("math")}}
 - SVG top-level element: {{SVGElement("svg")}}

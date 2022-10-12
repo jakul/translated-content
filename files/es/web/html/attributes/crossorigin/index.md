@@ -23,6 +23,6 @@ Una clave inválida y un string vacío serán gestionados como una clave anónim
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [HTTP access control](/En/HTTP_access_control)

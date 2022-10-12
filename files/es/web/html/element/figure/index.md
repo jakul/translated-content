@@ -34,6 +34,6 @@ Este elemento no tiene atributos que no sean los [atributos globales](/en/HTML/G
 
 Este elemento implementa la interfaz [`HTMLElement`](/en/DOM/element).
 
-### Consulta también
+### Véase también
 
 El elemento {{ HTMLElement ("figcaption") }}.

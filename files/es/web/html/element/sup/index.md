@@ -122,7 +122,7 @@ Notas al pie1
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - El elemento HTML [\<sub>](/es/docs/Web/HTML/Elemento/sub) produce subíndices. Tenga en cuenta que no puedes usar \<sup> y \<sub> ambos al mismo tiempo y necesita usar [MathML](/es/docs/MathML "en/MathML") para producir un superíndice y un subíndice al lado del símbolo químico de un elemento, que representa su número atómico y su número nuclear.
 

@@ -150,7 +150,7 @@ A pesar de que los hiden input no se pueden ver en absoluto, sus datos se siguen
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [HTML forms guide](/es/docs/Learn/HTML/Forms)
 - {{HTMLElement("input")}} y la interfaz {{domxref("HTMLInputElement")}} en la que se basa

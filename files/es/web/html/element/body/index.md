@@ -169,7 +169,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
 
 {{Compat}}
 
-## Ve también
+## Véase también
 
 - {{HTMLElement("html")}}
 - {{HTMLElement("head")}}

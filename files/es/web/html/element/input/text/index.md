@@ -410,7 +410,7 @@ Puedes ver buenos ejemplos de entradas de texto utilizadas en contexto en los ar
 
 {{Compat}}
 
-## Ve también
+## Véase también
 
 - [Formularios HTML](/es/docs/Learn/HTML/Forms)
 - {{HTMLElement("input")}} y la interfaz {{DOMxRef("HTMLInputElement")}} en que se basa.

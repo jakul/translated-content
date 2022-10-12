@@ -26,6 +26,6 @@ Los elementos ocultos no deben de ser vinculados desde elementos no ocultos y el
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - [atributos globales](/es/docs/Web/HTML/Atributos_Globales/)

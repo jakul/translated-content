@@ -30,7 +30,7 @@ Este elemento no tiene otros atributos que no sean los [atributos generales](/en
 
 Este elemento implementa la interfaz [`HTMLElement`](/en/DOM/element).
 
-### Mira también
+### Véase también
 
 - Otros elementos relacionados con secciones: {{ HTMLElement("body") }}, {{ HTMLElement("nav") }}, {{ HTMLElement("article") }}, {{ HTMLElement("aside") }}, {{ HTMLElement("h1") }}, {{ HTMLElement("h2") }}, {{ HTMLElement("h3") }}, {{ HTMLElement("h4") }}, {{ HTMLElement("h5") }}, {{ HTMLElement("h6") }}, {{ HTMLElement("hgroup") }}, {{ HTMLElement("footer") }}, {{ HTMLElement("section") }}, {{ HTMLElement("address") }};
 - [Sections and outlines of an HTML5 document](/en/Sections_and_Outlines_of_an_HTML5_document).

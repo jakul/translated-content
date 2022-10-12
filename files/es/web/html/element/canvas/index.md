@@ -56,6 +56,6 @@ Para mejorar la accesibilidad de la etiquetas puedes leer los siguientes artícu
 - [HTML5 Canvas Accessibility in Firefox 13 – by Steve Faulkner](http://www.paciellogroup.com/blog/2012/06/html5-canvas-accessibility-in-firefox-13/)
 - [Best practices for interactive canvas elements](https://html.spec.whatwg.org/multipage/scripting.html#best-practices)
 
-## Consulta también
+## Véase también
 
 - [Tema sobre canvas](/es/HTML/Canvas)

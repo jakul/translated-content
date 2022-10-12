@@ -91,7 +91,7 @@ Su proveedor de alojamiento web puede proporcionar una interfaz fácil para los 
 
 - [HTMLVideoElement](/en/DOM/HTMLVideoElement "en/DOM/HTMLVideoElement")
 
-## Consulta también
+## Véase también
 
 - [Formatos multimedia admitidos por los elementos de audio y video](/es/Formatos_multimedia_admitidos_por_los_elementos_de_video_y_audio "es/Formatos multimedia admitidos por los elementos de video y audio")
 - [`audio`](/es/HTML/Elemento/Audio "es/HTML/Elemento/Audio")

@@ -43,7 +43,7 @@ Puedes escribir bgsound con una etiqueta de cierre automático \<bgsound /> . Ah
 
 {{Compat}}
 
-## Ver también
+## Véase también
 
 - {{htmlelement("audio")}}, el cual es el elemento estándar para incrustar audio en un documento.
 
