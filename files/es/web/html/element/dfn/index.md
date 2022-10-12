@@ -102,7 +102,7 @@ Sirve para marcar el término que se quiere definir.
 
 ### Ejemplos
 
-```
+```html
 <p>
      El <dfn>HTML</dfn> es un lenguaje de marcado para hipertextos.
 </p>

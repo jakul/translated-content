@@ -36,7 +36,7 @@ El elemento `keygen` de HTML existe para facilitar la generación de llaves, y e
 
 El elemento se escribe como sigue:
 
-```
+```html
 <keygen name="name" challenge="challenge string" keytype="type" keyparams="pqg-params">
 ```
 

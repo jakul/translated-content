@@ -103,7 +103,7 @@ El elemento `li` del ingles _item list_ o _elemento de lista_ declara cada uno d
 
 El siguiente código:
 
-```
+```html
 <ul>
  <li>punto uno</li>
  <li>punto dos</li>

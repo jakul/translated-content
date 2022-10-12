@@ -107,7 +107,7 @@ El elemento `menu` (directorio) es un elemento desaprobado. En su origen fue pen
 
 El siguiente código:
 
-```
+```html
  <menu>
   <li>primer elemento </li>
   <li>segundo elemento </li>

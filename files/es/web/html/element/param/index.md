@@ -140,13 +140,6 @@ original_slug: Web/HTML/Elemento/param
 
 ### Ejemplos de uso
 
-#### bla bla
-
-```
-
-
-
-```
 
 ### Estilo predeterminado
 

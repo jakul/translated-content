@@ -222,14 +222,6 @@ El siguiente ejemplo crea un cuadro de entrada de dirección de correo de 32 car
 
 Como siempre, puedes proporcionar un valor predeterminado para un cuadro de entrada de tipo `email` configurando su atributo {{HTMLAttrxRef("value", "input")}}:
 
-<div id="Default_value">
-<pre class="brush: html notranslate">&lt;input type="email" value="usuario@ejemplo.com"&gt;</pre>
-</div>
-
-```html
-<input type="email" value="default@example.com" />
-```
-
 {{EmbedLiveSample("Providing_a_single_default_using_the_value_attribute", 600, 40)}}
 
 #### Ofreciendo valores sugeridos

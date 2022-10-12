@@ -221,7 +221,7 @@ original_slug: Web/HTML/Elemento/ul
 
 El siguiente código:
 
-```
+```html
 <ul>
  <li>Esto</li>
  <li>Lo otro</li>

@@ -283,14 +283,6 @@ Permite especificar propiedades para una columna o un grupo de ellas.
 
 ### Ejemplos de uso
 
-#### bla bla
-
-```
-
-
-
-```
-
 ### Estilo predeterminado
 
 ### Notas

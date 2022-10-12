@@ -33,7 +33,7 @@ Muestra el texto marcado con una fuente de ancho fijo.
 
 ### Ejemplos
 
-```
+```html
   <p>
        Texto normal y... <tt>Texto con formato teletipo</tt>
   </p>

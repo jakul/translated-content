@@ -101,7 +101,7 @@ El elemento [fieldset](/es/HTML/Elemento/fieldset "es/HTML/Elemento/fieldset") (
 
 El siguiente código:
 
-```
+```html
 <form>
 
  <fieldset>

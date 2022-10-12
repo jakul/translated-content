@@ -116,7 +116,7 @@ El elemento `ins` (insertado) marca las partes de un texto que han sido añadido
 
 El siguiente código:
 
-```
+```html
  Ejemplo de ins en linea:
    <p> El agua es insipida, <ins>inodora e incolora.</ins> </p>
 

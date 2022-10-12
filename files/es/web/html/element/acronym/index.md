@@ -213,7 +213,7 @@ Es el encargado para marcar estas formas abreviadas (modem, AJAX...). Además, g
 
 ### Ejemplos de uso
 
-```
+```html
 
  <p>
  El acrónimo de moda es:
@@ -226,7 +226,7 @@ Es el encargado para marcar estas formas abreviadas (modem, AJAX...). Además, g
 
 En Firefox se resalta con un "subrayado" punteado fino. vea el ejemplo:
 
-```
+```html
 
  <p>
  el <abbr lang="en" title="Mocilla developer center">MDC</abbr> toma el

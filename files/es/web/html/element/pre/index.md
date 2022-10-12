@@ -30,7 +30,7 @@ a   {
 
 ### Resultado
 
-```
+```html
 body{
   color:  red;
 }

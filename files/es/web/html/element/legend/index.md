@@ -105,7 +105,7 @@ El elemento \<legend> (leyenda) crea un título para un grupos los campos ({{ HT
 
 ### Ejemplos
 
-```
+```html
 <form>
   <fieldset>
     <legend>Información Personal</legend>

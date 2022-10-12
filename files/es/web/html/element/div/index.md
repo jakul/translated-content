@@ -227,7 +227,7 @@ original_slug: Web/HTML/Elemento/div
 
 código:
 
-```
+```html
 <div style="color: blue;">
  <h2> Ejemplo de div y span </h2>
   <p>

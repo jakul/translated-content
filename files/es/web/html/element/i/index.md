@@ -99,7 +99,7 @@ Muestra el texto marcado con un estilo en cursiva o italica.
 
 ### Ejemplos
 
-```
+```html
   <p>
        Texto normal y... <i>Texto 'inclinado'</i>
   </p>

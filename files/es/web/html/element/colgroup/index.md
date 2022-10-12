@@ -280,13 +280,6 @@ original_slug: Web/HTML/Elemento/colgroup
 
 ### Ejemplos de uso
 
-#### bla bla
-
-```
-
-
-
-```
 
 ### Estilo predeterminado
 

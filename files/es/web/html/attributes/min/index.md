@@ -17,15 +17,15 @@ Válido para los tipos de entrada numérica, incluidos los tipos {{HTMLElement("
 
 Si `any` no se establece explícitamente, los valores válidos para el `número`, los tipos de entrada de fecha/hora y los tipos de entrada de `range` son iguales a la base de paso a paso: el valor {{HTMLAttrxRef("min", "input")}} y los incrementos del valor del paso, hasta el valor [max](/es/docs/Web/HTML/Attributes/max), si se especifica. Por ejemplo, si tienes `<input type="number" min="10" step="2">`, cualquier entero par, 10 o mayor, es válido. Si se omite, `<input type="number">`, cualquier número entero es válido, pero los flotantes, como 4.2, no son válidos, ya que el `step` predeterminado es 1. Para que 4.2 sea válido, `step` se debería haber configurado en `any`, 0.1, 0.2, o cualquiera, el valor mínimo tendría que ser un número terminado en 0.2 , como `<input type="number" min="-5.2">`
 
-| Tipo del `input`                                                             | Ejemplo                                     | Ejemplo                                                                                    |
-| ---------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| {{HTMLElement("input/date", "date")}}                             | <code class="brush: html">yyyy-mm-dd</code> | <code class="brush: html">&#x3C;input type="date" min="2019-12-25" step="1"></code>        |
-| {{HTMLElement("input/month", "month")}}                         | <code class="brush: html">yyyy-mm</code>    | <code class="brush: html">&#x3C;input type="month" min="2019-12" step="12"></code>         |
-| {{HTMLElement("input/week", "week")}}                             | <code class="brush: html">yyyy-W##</code>   | <code class="brush: html">&#x3C;input type="week" min="2019-W23" step=""></code>           |
-| {{HTMLElement("input/time", "time")}}                             | <code class="brush: html">hh:mm</code>      | <code class="brush: html">&#x3C;input type="time" min="09:00" step="900"></code>           |
-| {{HTMLElement("input/datetime-local", "datetime-local")}} | `yyyy-mm-ddThh:mm`                          | <code class="brush: html">&#x3C;input type="datetime-local" min="2019-12-25T19:30"></code> |
-| {{HTMLElement("input/number", "number")}}                     | [number](/es/docs/Web/CSS/number)           | <code class="brush: html">&#x3C;input type="number" min="0" step="5" max="100"></code>     |
-| {{HTMLElement("input/range", "range")}}                         | [number](/es/docs/Web/CSS/number)           | <code class="brush: html">&#x3C;input type="range" min="60" step="5" max="100"></code>     |
+| Tipo del `input`                                                             | Ejemplo             | Ejemplo                                                                                    |
+| ---------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------ |
+| {{HTMLElement("input/date", "date")}}                             | `yyyy-mm-dd` | `&#x3C;input type="date" min="2019-12-25" step="1">`        |
+| {{HTMLElement("input/month", "month")}}                         | `yyyy-mm` | `&#x3C;input type="month" min="2019-12" step="12">`         |
+| {{HTMLElement("input/week", "week")}}                             | `yyyy-W` | `&#x3C;input type="week" min="2019-W23" step="">`           |
+| {{HTMLElement("input/time", "time")}}                             | `hh:mm`  | `&#x3C;input type="time" min="09:00" step="900">`           |
+| {{HTMLElement("input/datetime-local", "datetime-local")}} | `yyyy-mm-ddThh:mm`  | `&#x3C;input type="datetime-local" min="2019-12-25T19:30">` |
+| {{HTMLElement("input/number", "number")}}                     | [number](/es/docs/Web/CSS/number) | `&#x3C;input type="number" min="0" step="5" max="100">`     |
+| {{HTMLElement("input/range", "range")}}                         | [number](/es/docs/Web/CSS/number) | `&#x3C;input type="range" min="60" step="5" max="100">`     |
 
 > **Nota:** Cuando los datos ingresados por el usuario no se adhieren al valor mínimo establecido, el valor se considera inválido en la restricción de validación y coincidirá con la pseudoclase `:invalid`
 

@@ -116,14 +116,14 @@ El elemento `del` (deleted-borrado) marca las partes de un texto o documento que
 
 El siguiente código:
 
-```
- Ejemplo de ins en linea:
+```html
+ <!-- Ejemplo de ins en linea: -->
 
    <p>
        El agua es insípida <del>y húmeda.</del> <ins>inodora e incolora.</ins>
    </p>
 
- Ejemplo de ins en bloque:
+ <!-- Ejemplo de ins en bloque: -->
 
    <p>
        El agua es insípida.

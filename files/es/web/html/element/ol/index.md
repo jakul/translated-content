@@ -111,7 +111,7 @@ El elemento `ol` permite definir listas o viñetas ordenadas (“Ordered List”
 
 El siguiente código:
 
-```
+```html
 <ol>
  <li>punto uno</li>
  <li>punto dos</li>

@@ -39,9 +39,9 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
 
     Si este atributo no se define, se selecciona por defecto `left`
 
-    > **Nota:** No usar este atributo ya que esta obsoleto en la ultima version.- Para lograr el mismo efecto de los valores `left`, `center`, `right`, o `justify` , usa la propiedad CSS {{cssxref("text-align")}} en el.
+    > **Nota:** No usar este atributo ya que esta obsoleto en la ultima version.- Para lograr el mismo efecto de los valores `left`, `center`, `right`, o `justify`, usa la propiedad CSS {{cssxref("text-align")}} en el.
     >
-    > - Para lograr el mismo efecto que el valor `char` , en CSS3,puedes usar el valor de la {{htmlattrxref("char", "td")}} como el valor de la propiedad {{cssxref("text-align")}} {{unimplemented_inline}}.
+    > - Para lograr el mismo efecto que el valor `char`, en CSS3,puedes usar el valor de la {{htmlattrxref("char", "td")}} como el valor de la propiedad {{cssxref("text-align")}} {{unimplemented_inline}}.
 
 <!---->
 
@@ -49,19 +49,15 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
 
   - :&#x20;
 
-    ```
-    Este atributo contiene una lista de cadenas separadas por espacios . Cada cadena es el ID de un grupo de celdas a las que esta cabecera se aplica.
-    ```
+    Este atributo contiene una lista de cadenas separadas por espacios. Cada cadena es el ID de un grupo de celdas a las que esta cabecera se aplica.
 
-    > **Nota:**No usar este atributo ya que esta obsoleto en la ultima version. En su lugar use el atributo {{htmlattrxref("scope", "td")}} .
+    > **Nota:** No usar este atributo ya que esta obsoleto en la ultima version. En su lugar use el atributo {{htmlattrxref("scope", "td")}}.
 
 - {{htmlattrdef("bgcolor")}} {{Non-standard_inline}}
 
   - :&#x20;
 
-    ```
-    Este atributo define el color de fondo de cada celda de la columna. Es uno de los códigos de 6 dígitos hexadecimales como se definen en sRGB , prefijado por un '# ' . Una de las cadenas de color predefinidos dieciséis se pueden utilizar :
-    ```
+    Este atributo define el color de fondo de cada celda de la columna. Es uno de los códigos de 6 dígitos hexadecimales como se definen en sRGB, prefijado por un '# '. Una de las cadenas de color predefinidos dieciséis se pueden utilizar :
 
     |     | `Negro` = "#000000"   |     | Verde = "#008000"           |
     | --- | --------------------- | --- | --------------------------- |
@@ -73,10 +69,73 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
     |     | `Purpura` = "#800080" |     | `Verde Azulado` = "#008080" |
     |     | `Fucsia` = "#FF00FF"  |     | `agua` = "#00FFFF"          |
 
-    > **Nota:** Nota: No usar este atributo ya que esta obsoleto en la ultima version del estandar y solo implementado en algunas versiones de Microsoft Internet Explorer: El elemento {{HTMLElement("td")}} debe ser estilizado en CSS.
+    > **Nota:** No usar este atributo ya que esta obsoleto en la ultima version del estandar y solo implementado en algunas versiones de Microsoft Internet Explorer: El elemento {{HTMLElement("td")}} debe ser estilizado en CSS.
+    
     > Para crear un efecto similar en CSS en su lugar use la propiedad {{cssxref("background-color")}}.
 
-<dl><dt>{{htmlattrdef("char")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}</dt><dd><pre dir="ltr" id="tw-target-text">Este atributo se utiliza para establecer el carácter para alinear las celdas de una columna . Los valores típicos de esto incluyen un punto (. ) al intentar alinear los números o valores monetarios . Si { { htmlattrxref ( " align " , " td " ) } } no está ajustado a char, este atributo se ignora.</pre><div class="note"><strong>Note: </strong>No usar este atributo ya que está obsoleto (y no soportado) en las últimas versiones estándares). Para lograr el mismo que el {{htmlattrxref("char", "thead")}}, en CSS3, puedes usar el character set usando el atributo {{htmlattrxref("char", "th")}} como el valor de la propiedad {{cssxref("text-align")}} {{unimplemented_inline}}.</div></dd><dt>{{htmlattrdef("charoff")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}</dt><dd><br>Este atributo se utiliza para indicar el número de caracteres para compensar los datos de la columna de los personajes de alineación especificado por el atributo de carbón .<div class="note">Nota: No usar este atributo ya que esta obsoleto en la ultima version del estandar,</div></dd><dt>{{htmlattrdef("colspan")}}</dt><dd><pre dir="ltr" id="tw-target-text">Este atributo contiene un valor entero no negativo que indica por el número de columnas se extiende la célula. Su valor por defecto es 1 ; si su valor se establece en 0 , se extiende hasta el final de la { { HTMLElement ( " colgroup " ) } } , aunque implícitamente definido , que la célula pertenece. Los valores superiores a 1000 serán consideradas como incorrectas y se establecen en el valor predeterminado ( 1 ) .</pre><div class="note"><strong>Nota: En</strong> {{HTMLVersionInline(5)}} este atributo solo acepta valores mayores que 0 this attribute only accepts values greater than zero since it <a href="http://dev.w3.org/html5/spec/single-page.html#attr-tdth-colspan">must not be used to overlap cells</a>. Además, Firefox is the only browser to support the 0 value as defined in the {{HTMLVersionInline(4.01)}} specification.</div></dd><dt>{{htmlattrdef("headers")}}</dt><dd><br>Este atributo contiene una lista de cadenas separadas por espacios , cada uno correspondiente al atributo ID de la { { HTMLElement ( "th" ) } } elementos que se aplican a este elemento.</dd><dt>{{htmlattrdef("rowspan")}}</dt><dd><br>Este atributo contiene un valor entero no negativo que indica a cuántas filas se extiende la célula. Su valor por defecto es 1 ; si su valor se establece en 0 , se extiende hasta el final de la sección de la tabla ( { { HTMLElement ( " culata en T " ) } } , { { HTMLElement ( " tbody " ) } } , { { HTMLElement ( " tfoot " ) } } , incluso si define implícitamente , que la célula pertenece. los valores superiores a 65534 se recortan hasta 65534 .</dd><dt>{{htmlattrdef("scope")}} {{obsolete_inline}} in {{HTMLVersionInline(5)}}</dt><dd></dd><dt>{{htmlattrdef("valign")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}</dt><dd><br>Este atributo especifica la alineación vertical del texto dentro de cada fila de células de la cabecera de la tabla . Los valores posibles para este atributo son :<ul><li><code>baseline</code>,<span style="background-color: #fafbfc; font-family: consolas,monaco,andale mono,monospace; font-size: 1rem; line-height: 19px; white-space: pre;"> pondrá el texto tan cerca del fondo de la celda , ya que es posible, pero alinearlo en la línea de base de los caracteres en lugar de la parte inferior de ellos. Si los caracteres son todos del mismo tamaño , esto tiene el mismo efecto que la parte inferior.</span></li><li><code>bottom</code>, pondrá el texto tan cerca del fondo de la celda , ya que es posible</li><li><code>middle</code>, centra el texto de la celda</li><li>and <code>top</code>, pone el texto como cerca de la parte superior de la celda como es posible .</li></ul><div class="note"><strong>Note: </strong>Do not use this attribute as it is obsolete (and not supported) in the latest standard: instead set the CSS {{cssxref("vertical-align")}} property on it.</div></dd><dt>{{htmlattrdef("width")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}</dt><dd><br>Este atributo se utiliza para definir una anchura de celda recomendada. Propiedades CELLSPACING y cellpadding pueden añadir espacio adicional, y el elemento { { HTMLElement ( "col " ) } } anchura pueden también tener algún efecto . En general, si el ancho de una columna es demasiado estrecha para mostrar una célula particular correctamente, y por lo tanto las células en el mismo, se puede ensanchar cuando se muestra .</dd><dd><div class="note"><strong>Note: </strong>Do not use this attribute in the latest standard: instead set the CSS {{cssxref("width")}} property.</div></dd></dl>
+- {{htmlattrdef("char")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}
+
+  - :&#x20;
+  
+    Este atributo se utiliza para establecer el carácter para alinear las celdas de una columna. Los valores típicos de esto incluyen un punto (.) al intentar alinear los números o valores monetarios. Si {{htmlattrxref("align","td")}} no está ajustado a char, este atributo se ignora.
+  
+    > **Nota:** No usar este atributo ya que está obsoleto (y no soportado) en las últimas versiones estándares. Para lograr el mismo que el {{htmlattrxref("char", "thead")}}, en CSS3, puedes usar el character set usando el atributo {{htmlattrxref("char", "th")}} como el valor de la propiedad {{cssxref("text-align")}} {{unimplemented_inline}}.
+
+- {{htmlattrdef("charoff")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}
+
+  - :&#x20;
+  
+    Este atributo se utiliza para indicar el número de caracteres para compensar los datos de la columna de los personajes de alineación especificado por el atributo de carbón.
+  
+     > **Nota:** No usar este atributo ya que esta obsoleto en la ultima version del estandar,
+
+- {{htmlattrdef("colspan")}}
+
+  - :&#x20;
+  
+    Este atributo contiene un valor entero no negativo que indica por el número de columnas se extiende la célula. Su valor por defecto es 1; si su valor se establece en 0, se extiende hasta el final de la
+    {{HTMLElement(" colgroup")}}, aunque implícitamente definido, que la célula pertenece. Los valores superiores a 1000 serán consideradas como incorrectas y se establecen en el valor predeterminado ( 1 ).
+      
+    > **Nota:** En {{HTMLVersionInline(5)}} este atributo solo acepta valores mayores que 0 this attribute only accepts values greater than zero since it [must not be used to overlap cells](http://dev.w3.org/html5/spec/single-page.html#attr-tdth-colspan). Además, Firefox is the only browser to support the 0 value as defined in the {{HTMLVersionInline(4.01)}} specification.
+
+- {{htmlattrdef("headers")}}
+
+  - :&#x20;
+  
+    Este atributo contiene una lista de cadenas separadas por espacios, cada uno correspondiente al atributo ID de la {{HTMLElement("th")}} elementos que se aplican a este elemento.
+
+- {{htmlattrdef("rowspan")}}
+
+  - :&#x20;
+  
+    Este atributo contiene un valor entero no negativo que indica a cuántas filas se extiende la célula. Su valor por defecto es 1; si su valor se establece en 0, se extiende hasta el final de la sección de la tabla (
+    {{HTMLElement("culata en T")}}, {{HTMLElement("tbody")}}, {{HTMLElement("tfoot")}}, incluso si define implícitamente, que la célula pertenece. los valores superiores a 65534 se recortan hasta 65534.
+
+- {{htmlattrdef("scope")}} {{obsolete_inline}} in {{HTMLVersionInline(5)}}
+
+  - :&#x20; 
+
+- {{htmlattrdef("valign")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}
+
+  - :&#x20;
+  
+    Este atributo especifica la alineación vertical del texto dentro de cada fila de células de la cabecera de la tabla. Los valores posibles para este atributo son:
+      - `baseline`: pondrá el texto tan cerca del fondo de la celda, ya que es posible, pero alinearlo en la línea de base de los caracteres en lugar de la parte inferior de ellos. Si los caracteres son todos del mismo tamaño, esto tiene el mismo efecto que la parte inferior
+      - `bottom`: pondrá el texto tan cerca del fondo de la celda, ya que es posible
+      - `middle`: centra el texto de la celda 
+      - `top`: pone el texto como cerca de la parte superior de la celda como es posible.
+  
+     > **Nota:** No usar este atributo ya que está obsoleto (y no soportado) en las últimas versiones estándares. Para lograr el mismo puedes usar la propiedad {{cssxref("vertical-align")}} {{unimplemented_inline}}.
+
+
+- {{htmlattrdef("width")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}
+
+  - :&#x20;
+  
+    Este atributo se utiliza para definir una anchura de celda recomendada. Propiedades CELLSPACING y cellpadding pueden añadir espacio adicional, y el elemento
+    {{HTMLElement("col")}} anchura pueden también tener algún efecto. En general, si el ancho de una columna es demasiado estrecha para mostrar una célula particular correctamente, y por lo tanto las células en el mismo, se puede ensanchar cuando se muestra.
+  
+     > **Nota:** No usar este atributo ya que está obsoleto (y no soportado) en las últimas versiones estándares. Para lograr el mismo puedes usar la propiedad {{cssxref("width")}} {{unimplemented_inline}}.
 
 ## DOM interfaz
 

@@ -35,7 +35,7 @@ Muestra el texto subrayado.
 
 Uso de u:
 
-```
+```html
   <p>
        Texto normal y... <u>Texto subrayado</u>
   </p>
@@ -43,7 +43,7 @@ Uso de u:
 
 Uso de CSS:
 
-```
+```html
   <p>
        Texto normal y... <span style='text-decoration: underline'>Texto subrayado</span>
   </p>

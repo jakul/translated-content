@@ -224,7 +224,7 @@ Es el encargado de darle un título descriptivo a las tablas.
 
 El siguiente código:
 
-```
+```html
 
   <table border='1'>
    <caption>Tabla con caption</caption>

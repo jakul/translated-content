@@ -102,7 +102,7 @@ El elemento obsoleto [center](es/HTML/Elemento/center) (centro) crea una caja en
 
 ### Ejemplos
 
-```
+```html
 <center>
  elemento center
 </center>

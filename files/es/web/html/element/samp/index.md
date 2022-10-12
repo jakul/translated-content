@@ -42,7 +42,7 @@ Señala lo que es una salida de un programa.
 
 ### Ejemplos
 
-```
+```html
 <p>
 ... entonces aparecerá una ventana con el mensaje: <samp>Hola mundo</samp>
 </p>

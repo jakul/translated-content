@@ -206,16 +206,18 @@ Permite añadir un applet Java en un documento HTML. Es un elemento [Desaprobado
 
 ### Ejemplos
 
-```
- Ejemplo con applet:
+Ejemplo con applet:
+```html
 
    <applet code="loquesea.class"
             width="500" height="500">
        <!-- Aquí los contenidos alternativos por si falla el applet. -->
   </applet>
+   ```
 
-  Lo mismo pero usando el elemento object:
+Lo mismo pero usando el elemento object:
 
+```html
   <object  codetype="application/java"
             classid="java:loquesea.class"
             width="500" height="500">

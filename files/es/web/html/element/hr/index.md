@@ -120,7 +120,7 @@ descripción de uno o dos párrafosEl **elemento HTML \<hr>** representa un camb
 
 ### Ejemplos
 
-```
+```html
   <p>Este es un parrafo unicamente visual para ver el uso de
  la etiqueta hr</p>
   <hr/>

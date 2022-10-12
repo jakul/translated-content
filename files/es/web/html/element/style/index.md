@@ -157,7 +157,7 @@ original_slug: Web/HTML/Elemento/style
 
 #### Ejemplo simple
 
-```
+```html
 <style type="text/css">
  p { color: red; }
 </style>

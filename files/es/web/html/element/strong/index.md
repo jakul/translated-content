@@ -33,7 +33,7 @@ El elemento **strong** es el apropiado para marcar con especial énfasis las par
 
 ### Ejemplos
 
-```
+```html
  <p>
      <em>El dinero</em> es importante pero <strong>la salud</strong> lo es más.
  </p>

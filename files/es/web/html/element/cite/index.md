@@ -196,7 +196,7 @@ original_slug: Web/HTML/Elemento/cite
 
 código:
 
-```
+```html
 <p> <cite>Galileo</cite> dijo: "... y sin embargo, se mueve." </p>
 ```
 
@@ -208,7 +208,7 @@ Galileo dijo: "...y sin embargo, se mueve."
 
 En los navegadores basados en Mozilla (y en otros) el contenido de cite es mostrado con un estilo de texto en cursiva.
 
-```
+```html
 <p> <cite>Galileo</cite> dijo: "... y sin embargo, se mueve." </p>
 <p> <span style='font-style: italic;'>Galileo</span> dijo: "... y sin embargo, se mueve." </p>
 ```

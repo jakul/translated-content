@@ -203,7 +203,7 @@ original_slug: Web/HTML/Elemento/blockquote
 
 #### Un **blockquote** estricto
 
-```
+```html
 <blockquote cite='http://html.conclase.net/w3c/html401...def-BLOCKQUOTE'>
   <p>
     <strong>Nota.</strong> Recomendamos que las implementaciones de hojas
@@ -220,7 +220,7 @@ original_slug: Web/HTML/Elemento/blockquote
 
 - Conviene tener cuidado con las divergencias en el tipo de contenido dependiendo del doctype. El siguiente ejemplo es válido con un doctype transicional, pero no lo es con el estricto:
 
-```
+```html
 <blockquote>
   Bla, bla, bla...
 </blockquote>

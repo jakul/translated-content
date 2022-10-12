@@ -99,7 +99,7 @@ Es el apropiado para marcar el código de un programa.
 
 ### Ejemplos
 
-```
+```html
 <code>
  #include main() { for(;;) { printf ("Hello World!\n"); } }
 </code>

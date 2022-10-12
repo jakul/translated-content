@@ -215,7 +215,7 @@ Muestra el texto marcado con un tamaño de fuente más grande. El tamaño de la 
 
 #### Simple
 
-```
+```html
 
   <p>
 
@@ -229,7 +229,7 @@ Muestra el texto marcado con un tamaño de fuente más grande. El tamaño de la 
 
 **big** puede contener otros elementos en línea, por ejemplo... **big**:
 
-```
+```html
 
   <p>
 
@@ -251,7 +251,7 @@ Puede consultar esta [comparativa](http://www.webdevout.net/browser_support_html
 
 Observa el siguiente ejemplo:
 
-```
+```html
 
  <style>
         span { font-size: larger; }

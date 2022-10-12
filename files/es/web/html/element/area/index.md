@@ -354,7 +354,7 @@ Sirve para crear las distintas secciones en las que se puede dividir un [mapas d
 
 #### Un mapa de imágenes dividido en dos
 
-```
+```html
 
  <object data="http://developer.mozilla.org/wiki-images/es/3/39/Firefoxlogo.png"
          usemap="#map1" type="image/png"

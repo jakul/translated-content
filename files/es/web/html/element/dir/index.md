@@ -100,7 +100,7 @@ El elemento `dir` (directorio) es un elemento desaprobado. En su origen fue pens
 
 El siguiente código:
 
-```
+```html
  <dir>
   <li>primer elemento </li>
   <li>segundo elemento </li>

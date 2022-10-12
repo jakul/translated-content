@@ -35,7 +35,7 @@ Marca variables de programas y similares.
 
 ### Ejemplos
 
-```
+```html
 <p>
 el bucle no se detendrá hasta que <var>Faltan</var> sea igual a 0.
 </p>

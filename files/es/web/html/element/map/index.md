@@ -100,15 +100,6 @@ descripción de uno o dos párrafos
   </tbody>
 </table>
 
-### Ejemplos
-
-```
-  <>
-
-
-
-  </>
-```
 
 ### Comentarios
 

@@ -209,7 +209,7 @@ La dirección de escritura del texto está relacionada con el idioma y se declar
 
 #### Cambios de dirección
 
-```
+```html
 <p> cero(0)
 <bdo dir="rtl">
 <em> uno(1) dos(2) </em> tres(3) cuatro(4)

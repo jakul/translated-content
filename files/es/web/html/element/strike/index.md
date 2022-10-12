@@ -33,7 +33,7 @@ Muestra el texto tachado con una linea horizontal.
 
 ### Ejemplos
 
-```
+```html
   <p>
        Texto normal y... <strike>Texto tachado</strike>
   </p>

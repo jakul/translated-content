@@ -61,7 +61,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
 
   - : El contenido de la celda se alinea con un caracter en el elemento `<th>`. Los valores típicos incluyen un punto (.) para alinear números o valores monetarios. Si no se establece {{htmlattrxref("align", "th")}} como char, el atributo es ignorado.
 
-    > **Nota:**No usar este atributo, ya que no está soportado por el último estándar. Para lograr el mismo efecto, puedes especificar el caracter como el primer valor de la propiedad {{cssxref("text-align")}}, {{unimplemented_inline}} en CSS3.
+    > **Nota:** No usar este atributo, ya que no está soportado por el último estándar. Para lograr el mismo efecto, puedes especificar el caracter como el primer valor de la propiedad {{cssxref("text-align")}}, {{unimplemented_inline}} en CSS3.
 
 <!---->
 
@@ -69,7 +69,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
 
   - : This attribute is used to shift column data to the right of the character specified by the **char** attribute. Its value specifies the length of this shift.
 
-    > **Nota:**No usar este atributo, ya que no está soportado por el último estándar.
+    > **Nota:** No usar este atributo, ya que no está soportado por el último estándar.
 
 <!---->
 

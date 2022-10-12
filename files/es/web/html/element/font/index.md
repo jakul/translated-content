@@ -226,7 +226,7 @@ original_slug: Web/HTML/Elemento/font
 
 código:
 
-```
+```html
 <p>
  Texto normal y ...
  <font size="5" color="#0000ff"> Texto distinto. </font>

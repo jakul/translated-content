@@ -163,13 +163,13 @@ name = name {{ mediawiki.external('CS') }} Este atributo identifica un nombre de
 
 #### Con name y content
 
-```
+```html
 <meta name="copyright" content="© 2006 MDC">
 ```
 
 #### Con http-equiv
 
-```
+```html
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 ```
 

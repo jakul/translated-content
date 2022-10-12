@@ -102,7 +102,7 @@ Muestra el texto tachado con una linea horizontal.
 
 ### Ejemplos
 
-```
+```html
   <p>
        Texto normal y... <s>Texto tachado</s>
   </p>

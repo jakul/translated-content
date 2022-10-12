@@ -215,7 +215,7 @@ Indica que el texto debe ser representado con una variable **bold**, o **negrita
 
 #### Palabras pesadas
 
-```
+```html
 <p>
        Texto normal y... <b>Texto en negrita</b>
 </p>
@@ -233,7 +233,7 @@ Puede consultar esta [comparativa](http://www.webdevout.net/browser_support_html
 
 El inherente a su condición: **negrita.** Prueba el siguiente ejemplo:
 
-```
+```html
 
  <style>
         span { font-weight: bolder; }

@@ -194,7 +194,7 @@ original_slug: Web/HTML/Elemento/noscript
 
 #### Un script y su alternativa
 
-```
+```html
 <script type="text/javascript">
  Aquí un script que genera un listado
 </script>

@@ -102,7 +102,7 @@ El elemento [p](es/HTML/Elemento/p) (párrafo) es el apropiado para distribuir e
 
 ### Ejemplos
 
-```
+```html
 <p>
 Esto
 es un

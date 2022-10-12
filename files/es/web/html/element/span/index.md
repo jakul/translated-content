@@ -222,7 +222,7 @@ original_slug: Web/HTML/Elemento/span
 
 código:
 
-```
+```html
 <div style="border: 1px dotted blue;">
   <h4>Ejemplo de div y span </h4>
    <p>
@@ -242,7 +242,7 @@ Esto es un párrafo dentro de un div, y esto un span dentro de un párrafo.
 
 Por definición span no debe tener ningún estilo predefinido. Estos dos párrafos deben verse igual:
 
-```
+```html
 <p> Esto es un párrafo, bla, bla, bla. </p>
 <p> Esto es un párrafo, <span>bla, bla, bla.</span> </p>
 ```

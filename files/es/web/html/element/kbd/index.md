@@ -99,7 +99,7 @@ Marca el texto que debe introducir el usuario.
 
 ### Ejemplos
 
-```
+```html
 <p>
 Si está conforme escriba <kbd>sí</kbd>. Si no, pulse <kbd>esc</kbd>
 </p>

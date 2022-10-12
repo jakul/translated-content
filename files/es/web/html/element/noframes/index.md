@@ -194,7 +194,7 @@ original_slug: Web/HTML/Elemento/noframes
 
 #### Un frameset y su alternativa
 
-```
+```html
 <frameset cols="20%, 80%">
 
  <frame src="menu.html">
