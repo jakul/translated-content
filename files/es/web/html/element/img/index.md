@@ -212,4 +212,10 @@ El atributo` src` es ignorado en agentes de usuario que soportan `srcset` cuando
       sizes="(min-width: 600px) 200px, 50vw">
 ```
 
-<article class="approved text-content"><div class="boxed translate-rendered"><h2 id="Especificaciones">Especificaciones</h2><table class="standard-table"><thead><tr><th scope="col">Especificación</th><th scope="col">Estado</th><th scope="col">Comentario</th></tr></thead><tbody><tr><td>{{SpecName('Referrer Policy', '#referrer-policy-delivery-referrer-attribute', 'referrer attribute')}}</td><td>{{Spec2('Referrer Policy')}}</td><td>Añadida la política del atributo<code> referrer</code></td></tr><tr><td>{{SpecName('HTML WHATWG', 'embedded-content.html#the-img-element', '&lt;img&gt;')}}</td><td>{{Spec2('HTML WHATWG')}}</td><td></td></tr><tr><td>{{SpecName('HTML5 W3C', 'embedded-content-0.html#the-img-element', '&lt;img&gt;')}}</td><td>{{Spec2('HTML5 W3C')}}</td><td></td></tr><tr><td>{{SpecName('HTML4.01', 'struct/objects.html#h-13.2', '&lt;img&gt;')}}</td><td>{{Spec2('HTML4.01')}}</td><td></td></tr></tbody></table><h2 id="Compatibilidad_con_navegadores">Compatibilidad con navegadores</h2>{{Compat("html.elements.img")}}<h2 id="Ver_también">Ver también</h2><ul><li>{{HTMLElement("picture")}}, {{HTMLElement("object")}} and {{HTMLElement("embed")}} elements</li></ul></div></article>
+## Especificaciones
+
+{{Specifications}}
+
+## Compatibilidad con navegadores
+
+{{Compat}}

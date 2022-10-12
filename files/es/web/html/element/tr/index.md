@@ -72,9 +72,13 @@ Este elemento implementa el interfaz{{domxref("HTMLTableRowElement")}}.
 
 Ver {{HTMLElement("table")}} para ejemplos de `<tr>`.
 
-## Compatibilidad con Navegador
+## Especificaciones
 
-{{Compat("html.elements.tr")}}
+{{Specifications}}
+
+## Compatibilidad con navegadores
+
+{{Compat}}
 
 ## Ver también
 

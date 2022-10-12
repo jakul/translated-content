@@ -110,13 +110,11 @@ Para obtener más ejemplos, consulte [Uso de audio y video en Firefox](/es/docs/
 
 ## Especificaciones
 
-| Especificación                                                                                                           | Estado                           | Comentario |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------- |
-| {{SpecName('HTML WHATWG', 'embedded-content.html#the-source-element', '&lt;source&gt;')}} | {{Spec2('HTML WHATWG')}} |            |
+{{Specifications}}
 
-## Compaibilidad entre navegadores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.source")}}
+{{Compat}}
 
 ## Ver también
 

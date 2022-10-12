@@ -28,7 +28,7 @@ El [atributo global](/es/docs/Web/HTML/Atributos_Globales) dir es un atributo en
 
 {{Specifications}}
 
-## Compatibilidad de Navegadores
+## Compatibilidad con navegadores
 
 {{Compat}}
 

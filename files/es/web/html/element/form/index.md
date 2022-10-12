@@ -54,9 +54,13 @@ Este elemento implementa la interfaz [`HTMLFormElement`](/es/DOM/HTMLFormElement
 </form>
 ```
 
-## Compatibilidad de navegadores
+## Especificaciones
 
-{{Compat("html.elements.form")}}
+{{Specifications}}
+
+## Compatibilidad con navegadores
+
+{{Compat}}
 
 ## Consulte también
 

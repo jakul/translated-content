@@ -141,14 +141,11 @@ div {
 
 ## Especificaciones
 
-| Especificación                                                                                           | Estado                               |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| {{SpecName('HTML WHATWG', 'input.html#attr-input-accept', 'atributo accept')}} | {{ Spec2('HTML WHATWG') }} |
-| {{SpecName('HTML5.1', 'sec-forms.html#attr-input-accept', 'Atributo accept')}} | {{Spec2('HTML5.1')}}         |
+{{Specifications}}
 
-## Compatibilidad del navegador
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.attribute.accept")}}
+{{Compat}}
 
 ## Ve también
 

@@ -90,28 +90,14 @@ Si muestras esto en un explorador web , debe de verse como lo siguiente .
 
 ![content example](content-example.png)
 
+
 ## Especificaciones
 
-<table class="spec-table standard-table">
-  <tbody>
-    <tr>
-      <th scope="col">Especificación</th>
-      <th scope="col">Estatus</th>
-      <th scope="col">Comentario</th>
-    </tr>
-    <tr>
-      <td>
-        {{SpecName('Shadow DOM', "#the-content-element", "content")}}
-      </td>
-      <td>{{Spec2('Shadow DOM')}}</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+{{Specifications}}
 
-## Compatibilidad con exploradores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.content")}}
+{{Compat}}
 
 ## Ver también
 

@@ -238,14 +238,11 @@ Los siguientes son un ejemplo renderizado resultado del codigo del anterior ejem
 
 ## Especificaciones
 
-| Especificaciones                                                                                 | Estados                              | Comentario |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------- |
-| {{SpecName('HTML Microdata', "#dfn-itemscope", "itemscope")}}                 | {{Spec2('HTML Microdata')}} |            |
-| {{SpecName('HTML WHATWG', "microdata.html#attr-itemscope", "itemscope")}} | {{Spec2('HTML WHATWG')}}     |            |
+{{Specifications}}
 
-## Navegadores compatibles
+## Compatibilidad con navegadores
 
-{{Compat("html.global_attributes.itemscope")}}
+{{Compat}}
 
 ## Ver tambien
 

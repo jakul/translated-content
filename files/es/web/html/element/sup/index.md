@@ -116,14 +116,11 @@ Notas al pie1
 
 ## Especificaciones
 
-| Especificaciones                                                                                                                                                    | Estado                                           | Comentario |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- |
-| [HTML Living Standard The definition of '\<sub> and \<sup>' in that specification.](https://html.spec.whatwg.org/multipage/semantics.html#the-sub-and-sup-elements) | <span class="spec-Living">Living Standard</span> |            |
-| [HTML5 The definition of '\<sub> and \<sup>;' in that specification.](http://www.w3.org/TR/html5/textlevel-semantics.html#the-sub-and-sup-elements)                 | <span class="spec-REC">Recommendation</span>     |            |
+{{Specifications}}
 
-## Compatibilidad navegadores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.sup")}}
+{{Compat}}
 
 ## Ver también
 

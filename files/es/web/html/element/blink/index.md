@@ -14,7 +14,7 @@ original_slug: Web/HTML/Elemento/blink
 
 El elemento HTML blink (`<blink>`) no es un elemento estándar que causa que el texto encerrado parpadee lentamente .
 
-> **Advertencia:** **Precaución :** No usar este elemento ya que no es un elemento estándar y está **obsoleto**. El texto parpadeante es mal visto por diversos estándares de accesibilidad y la especificación de CSS permite a los exploradores ingnorar el valor del parpadeo . .
+> **Advertencia:** **Precaución:** No usar este elemento ya que no es un elemento estándar y está **obsoleto**. El texto parpadeante es mal visto por diversos estándares de accesibilidad y la especificación de CSS permite a los exploradores ingnorar el valor del parpadeo . .
 
 ## Interface DOM
 
@@ -30,13 +30,13 @@ Este elemento no es soportado y por lo tanto implementa la interface {domxref("H
 
 ![Image:HTMLBlinkElement.gif](/@api/deki/files/247/=HTMLBlinkElement.gif)
 
-## Especificación
+## Especificaciones
 
-Este elemento no es parte del estándar ni de alguna espeficación . Si no nos crees puedes verlo por ti mismo en la [espeficicación de HTML](http://www.whatwg.org/specs/web-apps/current-work/multipage/obsolete.html#non-conforming-features).
+{{Specifications}}
 
-## Compatibilidad en exploradores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.blink")}}
+{{Compat}}
 
 ## Ver también
 

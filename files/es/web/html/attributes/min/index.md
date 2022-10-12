@@ -61,16 +61,13 @@ Dado que `step` tiene el valor predeterminado de 1, los valores válidos incluye
 
 Si no se incluye explícitamente, `step` tiene como valor predeterminado 1 para `número` y `range`, y 1 tipo de unidad (segundo, semana, mes, día) para los {{HTMLElement("input")}}s de tipo fecha/hora.
 
-## Compatibilidad del navegador
-
-{{Compat("html.elements.attributes.min")}}
-
 ## Especificaciones
 
-| Especificación                                                                                                   | Estado                               | Comentario |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------- |
-| {{SpecName('HTML WHATWG', 'input.html#the-min-and-max-attributes', 'min attribute')}} | {{ Spec2('HTML WHATWG') }} |            |
-| {{SpecName('HTML5 W3C', 'input.html#the-min-and-max-attributes', 'min attribute')}} | {{ Spec2('HTML5 W3C') }}     |            |
+{{Specifications}}
+
+## Compatibilidad con navegadores
+
+{{Compat}}
 
 ## Problemas de accesibilidad
 

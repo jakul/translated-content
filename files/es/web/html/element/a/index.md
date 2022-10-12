@@ -193,16 +193,11 @@ Cuando se clicea sobre un {{HTMLElement("a")}} las consecuencias varían de acue
 
 ## Especificaciones
 
-| Especificación                                                                                                                           | Estatus                              | Comentario                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------- |
-| {{SpecName("Referrer Policy", "#referrer-policy-delivery-referrer-attribute", "referrer attribute")}} | {{Spec2("Referrer Policy")}} | Added the `referrerpolicy` attribute. |
-| {{SpecName("HTML WHATWG", "textlevel-semantics.html#the-a-element", "&lt;a&gt;")}}                             | {{Spec2("HTML WHATWG")}}     |                                       |
-| {{SpecName("HTML5 W3C", "textlevel-semantics.html#the-a-element", "&lt;a&gt;")}}                             | {{Spec2("HTML5 W3C")}}         |                                       |
-| {{SpecName("HTML4.01", "struct/links.html#h-12.2", "&lt;a&gt;")}}                                                 | {{Spec2("HTML4.01")}}         |                                       |
+{{Specifications}}
 
-## Compatibilidad de navegadores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.a")}}
+{{Compat}}
 
 ## Consultar también
 

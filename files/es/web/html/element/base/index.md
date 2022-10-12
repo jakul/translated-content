@@ -92,4 +92,10 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
 <base target="_blank" href="http://www.example.com/page.html">
 ```
 
-<article class="approved text-content"><div class="boxed translate-rendered"><h2 id="Specifications" name="Specifications">Especificaciones</h2><table class="standard-table"><thead><tr><th scope="col">Especificación</th><th scope="col">Estado</th><th scope="col">Comentario</th></tr></thead><tbody><tr><td>{{SpecName('HTML WHATWG', 'semantics.html#the-base-element', '&lt;base&gt;')}}</td><td>{{Spec2('HTML WHATWG')}}</td><td><span class="short_text" id="result_box" lang="es"><span>Sin cambios</span> <span>desde la última</span> <span>instantánea</span></span>.</td></tr><tr><td>{{SpecName('HTML5 W3C', 'document-metadata#the-base-element', '&lt;base&gt;')}}</td><td>{{Spec2('HTML5 W3C')}}</td><td><span class="short_text" id="result_box" lang="es"><span>Especifica el</span> <span>comportamiento de</span></span> <code>target</code></td></tr><tr><td>{{SpecName('HTML4.01', 'struct/links.html#h-12.4', '&lt;base&gt;')}}</td><td>{{Spec2('HTML4.01')}}</td><td>Añadido el atributo <code>target</code></td></tr></tbody></table><h2 id="Browser_compatibility" name="Browser_compatibility">Compatibilidad de navegadores</h2>{{Compat("html.elements.base")}}</div></article>
+## Especificaciones
+
+{{Specifications}}
+
+## Compatibilidad con navegadores
+
+{{Compat}}

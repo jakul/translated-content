@@ -44,7 +44,10 @@ Este elemento implementa la interfaz `HTMLElement`.
   <h2>Secondary title</h2>
 </hgroup>
 ```
+## Especificaciones
 
-### Compatibilidad
+{{Specifications}}
 
-{{Compat("html.elements.hgroup")}}
+## Compatibilidad con navegadores
+
+{{Compat}}

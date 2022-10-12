@@ -152,16 +152,11 @@ Firefox usa la siguiente heurística para determinar la región con la cual vali
 
 ## Especificaciones
 
-| Especificación                                                                                                   | Estatus                                  | Comentarios                 |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------- |
-| {{SpecName('HTML WHATWG', 'forms.html#the-input-element', '&lt;input&gt;')}}             | {{Spec2('HTML WHATWG')}}         |                             |
-| {{SpecName('HTML Media Capture', '#the-capture-attribute','&lt;input capture&gt;')}} | {{Spec2('HTML Media Capture')}} | Añade el elemento `capture` |
-| {{SpecName('HTML5 W3C', 'forms.html#the-input-element', '&lt;input&gt;')}}             | {{Spec2('HTML5 W3C')}}             |                             |
-| {{SpecName('HTML4.01', 'interact/forms.html#h-17.4', '&lt;form&gt;')}}                     | {{Spec2('HTML4.01')}}             |                             |
+{{Specifications}}
 
-## Compatibilidad de navegadores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.input")}}
+{{Compat}}
 
 ## Véase también
 

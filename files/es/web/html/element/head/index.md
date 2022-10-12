@@ -43,15 +43,11 @@ Navegadores modernos que cumplen con el estándar HTML5 construyen automáticame
 
 ## Especificaciones
 
-| Especificación                                                                                                   | Estatus                          | Comentarios                         |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------- |
-| {{SpecName('HTML WHATWG', 'semantics.html#the-head-element', '&lt;head&gt;')}}         | {{Spec2('HTML WHATWG')}} | Sin cambios desde la última versión |
-| {{SpecName('HTML5 W3C', 'document-metadata.html#the-head-element', '&lt;head&gt;')}} | {{Spec2('HTML5 W3C')}}     | Atributo `profile` obsoleto         |
-| {{SpecName('HTML4.01', 'struct/global.html#h-7.4.1', '&lt;head&gt;')}}                     | {{Spec2('HTML4.01')}}     |                                     |
+{{Specifications}}
 
-## Compatibilidad de navegadores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.head")}}
+{{Compat}}
 
 ## Véase también
 

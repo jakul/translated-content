@@ -145,9 +145,13 @@ Este elemento implementa el interfaz {{domxref("HTMLTableDataCellElement")}}.
 
 Por favor, ver la página {{HTMLElement("table")}} para ejemplos de `<td>`.
 
+## Especificaciones
+
+{{Specifications}}
+
 ## Compatibilidad con navegadores
 
-{{Compat("html.elements.td")}}
+{{Compat}}
 
 ## Ver también
 

@@ -27,7 +27,7 @@ Por default , unicamente el texto , las imagenes y los vínculos pueden ser arra
 
 {{Specifications}}
 
-## Compatibilidad de Navegadores
+## Compatibilidad con navegadores
 
 {{Compat}}
 

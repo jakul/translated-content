@@ -100,14 +100,11 @@ table td {
 
 ## Especificaciones
 
-| Especificación                                                                                                   | Estado                           | Comentario         |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------ |
-| {{SpecName('HTML WHATWG','scripting.html#the-template-element','template element')}} | {{Spec2('HTML WHATWG')}} |                    |
-| {{SpecName('HTML5 W3C','/scripting-1.html#the-template-element','template element')}} | {{Spec2('HTML5 W3C')}}     | Initial definition |
+{{Specifications}}
 
-## Compatibilidad navegadores
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.template")}}
+{{Compat}}
 
 ## Ver también
 

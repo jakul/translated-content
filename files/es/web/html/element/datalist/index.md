@@ -87,16 +87,13 @@ Este elemento no tiene otros atributos mas que los [atributos globales](/es/docs
 
 ## Especificaciones
 
-| Especificación                                                                                               | Estado                           | Comentario |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------- |
-| {{SpecName('HTML WHATWG', 'forms.html#the-datalist-element', '&lt;datalist&gt;')}} | {{Spec2('HTML WHATWG')}} |            |
-| {{SpecName('HTML5 W3C', 'forms.html#the-datalist-element', '&lt;datalist&gt;')}} | {{Spec2('HTML5 W3C')}}     |            |
+{{Specifications}}
 
-## Compatibilidad con los distintos navegadores<a class="button section-edit only-icon" href="https://developer.mozilla.org/es/docs/Web/HTML/Elemento/option$edit#Compatibilidad_con_los_distintos_navegadores" rel="nofollow, noindex"><span>Edit</span></a>
+## Compatibilidad con navegadores
 
-{{Compat("html.elements.datalist")}}
+{{Compat}}
 
-## sección de relleno
+## Sección de relleno
 
 Incluya este polyfill para proporcionar soporte para navegadores antiguos y actualmente incompatibles:
 [datalist-polyfill](https://github.com/mfranzke/datalist-polyfill)

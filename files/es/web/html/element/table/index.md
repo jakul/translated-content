@@ -265,6 +265,10 @@ Este elemento implementa la interfaz [`HTMLTableElement`](/es/docs/DOM/HTMLTable
 | Awesome data |
 | ------------ |
 
-### Compatibilidad de navegadores
+## Especificaciones
 
-{{Compat("html.elements.table")}}
+{{Specifications}}
+
+## Compatibilidad con navegadores
+
+{{Compat}}

@@ -26,10 +26,8 @@ El atributo {{HTMLAttrDef("autocapitalize")}} nunca hace que se habilite la auto
 
 ## Especificaciones
 
-| Especificación                                                                       | Estado                     | Comentario |
-| ------------------------------------------------------------------------------------ | -------------------------- | ---------- |
-| {{SpecName('HTML WHATWG', "interaction.html#autocapitalization", "autocapitalize")}} | {{ Spec2('HTML WHATWG') }} |            |
+{{Specifications}}
 
-## Compatibilidad del navegador
+## Compatibilidad con navegadores
 
-{{Compat("html.global_attributes.autocapitalize")}}
+{{Compat}}
