@@ -70,7 +70,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
     |     | `Fucsia` = "#FF00FF"  |     | `agua` = "#00FFFF"          |
 
     > **Nota:** No usar este atributo ya que esta obsoleto en la ultima version del estandar y solo implementado en algunas versiones de Microsoft Internet Explorer: El elemento {{HTMLElement("td")}} debe ser estilizado en CSS.
-    
+
     > Para crear un efecto similar en CSS en su lugar use la propiedad {{cssxref("background-color")}}.
 
 - {{htmlattrdef("char")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}
@@ -95,7 +95,7 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
   
     Este atributo contiene un valor entero no negativo que indica por el número de columnas se extiende la célula. Su valor por defecto es 1; si su valor se establece en 0, se extiende hasta el final de la
     {{HTMLElement(" colgroup")}}, aunque implícitamente definido, que la célula pertenece. Los valores superiores a 1000 serán consideradas como incorrectas y se establecen en el valor predeterminado ( 1 ).
-      
+
     > **Nota:** En {{HTMLVersionInline(5)}} este atributo solo acepta valores mayores que 0 this attribute only accepts values greater than zero since it [must not be used to overlap cells](http://dev.w3.org/html5/spec/single-page.html#attr-tdth-colspan). Además, Firefox is the only browser to support the 0 value as defined in the {{HTMLVersionInline(4.01)}} specification.
 
 - {{htmlattrdef("headers")}}
@@ -113,20 +113,19 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Atributos_Globa
 
 - {{htmlattrdef("scope")}} {{obsolete_inline}} in {{HTMLVersionInline(5)}}
 
-  - :&#x20; 
+  - :&#x20;
 
 - {{htmlattrdef("valign")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}, {{obsolete_inline}} in {{HTMLVersionInline(5)}}
 
   - :&#x20;
   
     Este atributo especifica la alineación vertical del texto dentro de cada fila de células de la cabecera de la tabla. Los valores posibles para este atributo son:
-      - `baseline`: pondrá el texto tan cerca del fondo de la celda, ya que es posible, pero alinearlo en la línea de base de los caracteres en lugar de la parte inferior de ellos. Si los caracteres son todos del mismo tamaño, esto tiene el mismo efecto que la parte inferior
-      - `bottom`: pondrá el texto tan cerca del fondo de la celda, ya que es posible
-      - `middle`: centra el texto de la celda 
-      - `top`: pone el texto como cerca de la parte superior de la celda como es posible.
+    - `baseline`: pondrá el texto tan cerca del fondo de la celda, ya que es posible, pero alinearlo en la línea de base de los caracteres en lugar de la parte inferior de ellos. Si los caracteres son todos del mismo tamaño, esto tiene el mismo efecto que la parte inferior
+    - `bottom`: pondrá el texto tan cerca del fondo de la celda, ya que es posible
+    - `middle`: centra el texto de la celda
+    - `top`: pone el texto como cerca de la parte superior de la celda como es posible.
   
      > **Nota:** No usar este atributo ya que está obsoleto (y no soportado) en las últimas versiones estándares. Para lograr el mismo puedes usar la propiedad {{cssxref("vertical-align")}} {{unimplemented_inline}}.
-
 
 - {{htmlattrdef("width")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}
 

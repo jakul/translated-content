@@ -26,7 +26,7 @@ La etiqueta html `<marquee>` se utiliza para insertar un area de texto en movimi
 ## Controladores de eventos
 
 - {{htmlattrdef("onbounce")}}
-  - : Este evento se lanza cuando la marquesina llegó al final del desplazamiento. Ésto solo se activa cuando el atributo `behavior `está establecido en `alternate`.
+  - : Este evento se lanza cuando la marquesina llegó al final del desplazamiento. Ésto solo se activa cuando el atributo `behavior`está establecido en `alternate`.
 - {{htmlattrdef("onfinish")}}
   - : Este evento se lanza cuando la marquesina repitió el desplazamiento la cantidad de veces establecidas en el atributo `loop`. El evento se lanza solo si el atributo `loop` tiene un valor mayor a 0.
 - {{htmlattrdef("onstart")}}

@@ -207,6 +207,7 @@ Permite añadir un applet Java en un documento HTML. Es un elemento [Desaprobado
 ### Ejemplos
 
 Ejemplo con applet:
+
 ```html
 
    <applet code="loquesea.class"

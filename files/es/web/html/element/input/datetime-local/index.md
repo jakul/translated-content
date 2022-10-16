@@ -10,7 +10,7 @@ original_slug: Web/HTML/Element/input/datetime
 ---
 El HTML `<input type="datetime">` es un control para ingresar tiempo y fecha (hora, minuto, segundo y fracción de segundo) basado en la zona horaria UTC.
 
-- [Categorías de contenido](/es/docs/Web/Guide/HTML/categorias_de_contenido) : Contenido dinámico , listed , submittable , resettable , contenido asociado a un formulario , contenido estático o de texto . Si `type` no tiene el valor `hidden `, elemenento labelable , contenido palpable .
+- [Categorías de contenido](/es/docs/Web/Guide/HTML/categorias_de_contenido) : Contenido dinámico , listed , submittable , resettable , contenido asociado a un formulario , contenido estático o de texto . Si `type` no tiene el valor `hidden`, elemenento labelable , contenido palpable .
 
 <table class="properties">
   <tbody>
@@ -44,7 +44,7 @@ El HTML `<input type="datetime">` es un control para ingresar tiempo y fecha (ho
 
 ## Atributos
 
-El siguiente elemento tiene los siguientes[ atributos globales](/es/docs/Web/HTML/Atributos_Globales) .
+El siguiente elemento tiene los siguientes[atributos globales](/es/docs/Web/HTML/Atributos_Globales) .
 
 ## Ejemplos
 

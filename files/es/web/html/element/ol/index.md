@@ -121,8 +121,8 @@ El siguiente código:
 
 Se visualiza así:
 
-1.  punto uno
-2.  punto dos
-3.  punto tres
+1. punto uno
+2. punto dos
+3. punto tres
 
 ### Comentarios

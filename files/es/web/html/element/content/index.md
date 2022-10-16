@@ -13,7 +13,7 @@ original_slug: Web/HTML/Elemento/content
 ---
 {{Deprecated_header}}
 
-El elemento [HTML](/es/docs/Web/HTML) `<content> es usado dentro de un `[Shadow DOM](/es/docs/Web/Web_Components/Using_shadow_DOM) como un {{glossary("insertion point")}} . No está pensado para ser usado en HTML ordinario . Es usado con [Web Components](/es/docs/Web/Web_Components).
+El elemento [HTML](/es/docs/Web/HTML) `<content> es usado dentro de un`[Shadow DOM](/es/docs/Web/Web_Components/Using_shadow_DOM) como un {{glossary("insertion point")}} . No está pensado para ser usado en HTML ordinario . Es usado con [Web Components](/es/docs/Web/Web_Components).
 
 > **Nota:**Aunque está presente en un draft inicial de las especificaciones e implementado en varios exploradores , este elemento ha sido removido en versiones posteriores a la especificación .
 
@@ -50,7 +50,7 @@ El elemento [HTML](/es/docs/Web/HTML) `<content> es usado dentro de un `[Shadow 
 
 ## Atributos
 
-Este elemento incluye los [atributos globales ](/es/docs/Web/HTML/Global_attributes).
+Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attributes).
 
 - select
   - : Una lista de selectores separada por comas . Estos tienen la misma sintaxis que los selectores de CSS . Seleccionan el contenido a insertar en lugar del elemento \<content> .
@@ -89,7 +89,6 @@ Aquí hay un ejemplo simple del uso del elemento \<content> . Es un archivo HTML
 Si muestras esto en un explorador web , debe de verse como lo siguiente .
 
 ![content example](content-example.png)
-
 
 ## Especificaciones
 

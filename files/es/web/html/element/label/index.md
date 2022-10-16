@@ -6,7 +6,7 @@ original_slug: Web/HTML/Elemento/label
 ---
 ## Resumen
 
-El\_ \_**Elemento** **HTML** **`<label> `**representa una etiqueta para un elemento en una interfaz de usuario. Este puede estar asociado con un control ya sea mediante la utilizacion del atributo for, o ubicando el control dentro del elemento label. Tal control es llamado "el control etiquetado" del elemento label.
+El\_ \_**Elemento** **HTML** **`<label>`**representa una etiqueta para un elemento en una interfaz de usuario. Este puede estar asociado con un control ya sea mediante la utilizacion del atributo for, o ubicando el control dentro del elemento label. Tal control es llamado "el control etiquetado" del elemento label.
 
 <ul class="htmlelt"><li><dfn><a href="/en-US/docs/Web/HTML/Content_categories">Categorias</a></dfn> <a href="/en-US/docs/Web/HTML/Content_categories#Flow_content">Contenido de flujo</a>, <a href="/en-US/docs/Web/HTML/Content_categories#Phrasing_content">contenido de fraseo</a>, <a href="/en-US/docs/Web/HTML/Content_categories#Interactive_content">contenido interactivo</a>, <a href="/en-US/docs/Web/HTML/Content_categories#Form-associated_content">elemento de formulario asociado</a>, contenido palpable.</li><li><dfn>Contenido permitido</dfn> <a href="/en-US/docs/Web/HTML/Content_categories#Phrasing_content">Contenido de fraseo</a>, pero no otros componentes <code>label</code> ni otros elementos etiquetables a parte del de control ya etiquetado.</li><li><dfn>Omision del Tag</dfn> {{no_tag_omission}}</li><li><dfn>Elementos padre permitidos</dfn> Cualquier elemento que acepte el <a href="/en-US/docs/Web/HTML/Content_categories#Phrasing_content">contenido de fraseo</a>.</li><li><dfn>DOM interface</dfn> {{domxref("HTMLLabelElement")}}</li></ul>
 

@@ -44,6 +44,7 @@ Este elemento implementa la interfaz `HTMLElement`.
   <h2>Secondary title</h2>
 </hgroup>
 ```
+
 ## Especificaciones
 
 {{Specifications}}

@@ -98,13 +98,13 @@ Este elemento incluye los [atributos globales](/es/docs/Web/HTML/Global_attribut
     - `middle`: Centers the text in the cell.
     - and `top`: Positions the text near the top of the cell.
 
-    > **Nota:** **Usage Note:** Do not use this attribute as it is no longer supported by the latest standard: use the CSS {{cssxref("vertical-align")}} property instead.
+    > **Nota:** **Nota de uso:** No usar este atributo en CSS dado que es obsoleto. En su lugar use el atributo CSS {{cssxref("vertical-align")}}.
 
 - {{htmlattrdef("width")}} {{Deprecated_inline}} in {{HTMLVersionInline(4.01)}}
 
   - : This attribute is used to define a recommended cell width. Additional space can be added with the [cellspacing](/es/docs/Web/API/HTMLTableElement/cellSpacing) and [cellpadding](/es/docs/Web/API/HTMLTableElement/cellPadding) properties and the width of the {{HTMLElement("col")}} element can also create extra width. But, if a column's width is too narrow to show a particular cell properly, it will be widened when displayed.
 
-    > **Nota:** **Usage Note:** Do not use this attribute in the latest standard: use the CSS {{cssxref("width")}} property instead.
+    > **Nota:** **Nota de uso:** No usar este atributo en CSS dado que es obsoleto. En su lugar use el atributo CSS {{cssxref("width")}}.
 
 ## Examples
 
